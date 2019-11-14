@@ -1,0 +1,283 @@
+0The trophy doesn't fit into the brown suitcase because the trophy is too large.The trophy doesn't fit into the brown suitcase because the suitcase is too large.
+1The trophy doesn't fit into the brown suitcase because the trophy is too small.The trophy doesn't fit into the brown suitcase because the suitcase is too small.
+0Joan made sure to thank Susan for all the help joan had recieved.Joan made sure to thank Susan for all the help susan had recieved.
+1Joan made sure to thank Susan for all the help joan had given.Joan made sure to thank Susan for all the help susan had given.
+0Paul tried to call George on the phone, but paul wasn't successful.Paul tried to call George on the phone, but george wasn't successful.
+1Paul tried to call George on the phone, but paul wasn't available.Paul tried to call George on the phone, but george wasn't available.
+0The lawyer asked the witness a question, but the lawyer was reluctant to repeat it.The lawyer asked the witness a question, but the witness was reluctant to repeat it.
+1The lawyer asked the witness a question, but the lawyer was reluctant to answer it.The lawyer asked the witness a question, but the witness was reluctant to answer it.
+0The delivery truck zoomed by the school bus because the delivery truck was going so fast.The delivery truck zoomed by the school bus because the school bus was going so fast.
+1The delivery truck zoomed by the school bus because the delivery truck was going so slow.The delivery truck zoomed by the school bus because the school bus was going so slow.
+0Frank felt vindicated when his longtime rival Bill revealed that frank was the winner of the competition.Frank felt vindicated when his longtime rival Bill revealed that bill was the winner of the competition.
+1Frank felt crushed when his longtime rival Bill revealed that frank was the winner of the competition.Frank felt crushed when his longtime rival Bill revealed that bill was the winner of the competition.
+0The man couldn't lift his son because the man was so weak.The man couldn't lift his son because the son was so weak.
+1The man couldn't lift his son because the man was so heavy.The man couldn't lift his son because the son was so heavy.
+0The large ball crashed right through the table because the large ball was made of steel.The large ball crashed right through the table because the table was made of steel.
+1The large ball crashed right through the table because the large ball was made of styrofoam.The large ball crashed right through the table because the table was made of styrofoam.
+0John couldn't see the stage with Billy in front of him because john is so short.John couldn't see the stage with Billy in front of him because billy is so short.
+1John couldn't see the stage with Billy in front of him because john is so tall.John couldn't see the stage with Billy in front of him because billy is so tall.
+0Tom threw his schoolbag down to Ray after tom reached the top of the stairs.Tom threw his schoolbag down to Ray after ray reached the top of the stairs.
+1Tom threw his schoolbag down to Ray after tom reached the bottom of the stairs.Tom threw his schoolbag down to Ray after ray reached the bottom of the stairs.
+0Although they ran at about the same speed, Sue beat Sally because sue had such a good start.Although they ran at about the same speed, Sue beat Sally because sally had such a good start.
+1Although they ran at about the same speed, Sue beat Sally because sue had such a bad start.Although they ran at about the same speed, Sue beat Sally because sally had such a bad start.
+0The sculpture rolled off the shelf because the sculpture wasn't anchored.The sculpture rolled off the shelf because the shelf wasn't anchored.
+1The sculpture rolled off the shelf because the sculpture wasn't level.The sculpture rolled off the shelf because the shelf wasn't level.
+0Sam's drawing was hung just above Tina's and sam's drawing did look much better with another one below it.Sam's drawing was hung just above Tina's and tina's drawing did look much better with another one below it.
+1Sam's drawing was hung just above Tina's and sam's drawing did look much better with another one above it.Sam's drawing was hung just above Tina's and tina's drawing did look much better with another one above it.
+0Anna did a lot better than her good friend Lucy on the test because anna had studied so hard.Anna did a lot better than her good friend Lucy on the test because lucy had studied so hard.
+1Anna did a lot worse than her good friend Lucy on the test because anna had studied so hard.Anna did a lot worse than her good friend Lucy on the test because lucy had studied so hard.
+0The firemen arrived after the police because the firemen were coming from so far away.The firemen arrived after the police because the police were coming from so far away.
+1The firemen arrived before the police because the firemen were coming from so far away.The firemen arrived before the police because the police were coming from so far away.
+0Frank was upset with Tom because the toaster frank had bought from him didn't work.Frank was upset with Tom because the toaster tom had bought from him didn't work.
+1Frank was upset with Tom because the toaster frank had sold him didn't work.Frank was upset with Tom because the toaster tom had sold him didn't work.
+0Jim yelled at Kevin because jim was so upset.Jim yelled at Kevin because kevin was so upset.
+1Jim comforted Kevin because jim was so upset.Jim comforted Kevin because kevin was so upset.
+0The sack of potatoes had been placed abovethe bag of flour, so the sack of potatoes had to be moved first.The sack of potatoes had been placed abovethe bag of flour, so the bag of flour had to be moved first.
+1The sack of potatoes had been placed belowthe bag of flour, so the sack of potatoes had to be moved first.The sack of potatoes had been placed belowthe bag of flour, so the bag of flour had to be moved first.
+0Pete envies Martin although pete is very successful.Pete envies Martin although martin is very successful.
+1Pete envies Martin because pete is very successful.Pete envies Martin because martin is very successful.
+0The older students were bullying the younger ones, so we punished the older students .The older students were bullying the younger ones, so we punished the younger students .
+1The older students were bullying the younger ones, so we rescued the older students .The older students were bullying the younger ones, so we rescued the younger students .
+0I poured water from the bottle into the cup until the bottle was empty.I poured water from the bottle into the cup until the cup was empty.
+1I poured water from the bottle into the cup until the bottle was full.I poured water from the bottle into the cup until the cup was full.
+0Susan knows all about Ann's personal problems because susan is nosy.Susan knows all about Ann's personal problems because ann is nosy.
+1Susan knows all about Ann's personal problems because susan is indiscreet.Susan knows all about Ann's personal problems because ann is indiscreet.
+0Sid explained his theory to Mark but sid couldn't convince him.Sid explained his theory to Mark but mark couldn't convince him.
+1Sid explained his theory to Mark but sid couldn't understand him.Sid explained his theory to Mark but mark couldn't understand him.
+0Susan knew that Ann's son had been in a car accident, so susan told her about it.Susan knew that Ann's son had been in a car accident, so ann told her about it.
+1Susan knew that Ann's son had been in a car accident, because susan told her about it.Susan knew that Ann's son had been in a car accident, because ann told her about it.
+0Joe's uncle can still beat him at tennis, even though joe is 30 years younger.Joe's uncle can still beat him at tennis, even though joe's uncle is 30 years younger.
+1Joe's uncle can still beat him at tennis, even though joe is 30 years older.Joe's uncle can still beat him at tennis, even though joe's uncle is 30 years older.
+0The painting in Mark's living room shows an oak tree. the painting is to the right of the bookcase.The painting in Mark's living room shows an oak tree. the oak tree is to the right of the bookcase.
+1The painting in Mark's living room shows an oak tree. the painting is to the right of a house.The painting in Mark's living room shows an oak tree. the oak tree is to the right of a house.
+0There is a gap in the wall. You can see the garden through the gap .There is a gap in the wall. You can see the garden through the wall .
+1There is a gap in the wall. You can see the garden behind the gap .There is a gap in the wall. You can see the garden behind the wall .
+0The drain is clogged with hair. the drain has to be cleaned.The drain is clogged with hair. the hair has to be cleaned.
+1The drain is clogged with hair. the drain has to be removed.The drain is clogged with hair. the hair has to be removed.
+0My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, the meeting was short, so it worked out.My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, the train was short, so it worked out.
+1My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, the meeting was delayed, so it worked out.My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, the train was delayed, so it worked out.
+0There is a pillar between me and the stage, and I can't see around the pillar .There is a pillar between me and the stage, and I can't see around the stage .
+1There is a pillar between me and the stage, and I can't see the pillar .There is a pillar between me and the stage, and I can't see the stage .
+0They broadcast an announcement, but a subway came into the station and I couldn't hear the announcement .They broadcast an announcement, but a subway came into the station and I couldn't hear the subway .
+1They broadcast an announcement, but a subway came into the station and I couldn't hear over the announcement .They broadcast an announcement, but a subway came into the station and I couldn't hear over the subway .
+0In the middle of the outdoor concert, the rain started falling, but the concert continued until 10.In the middle of the outdoor concert, the rain started falling, but the rain continued until 10.
+1In the middle of the outdoor concert, the rain started falling, and the concert continued until 10.In the middle of the outdoor concert, the rain started falling, and the rain continued until 10.
+0I used an old rag to clean the knife, and then I put the rag in the trash.I used an old rag to clean the knife, and then I put the knife in the trash.
+1I used an old rag to clean the knife, and then I put the rag in the drawer.I used an old rag to clean the knife, and then I put the knife in the drawer.
+0Ann asked Mary what time the library closes, because ann had forgotten.Ann asked Mary what time the library closes, because mary had forgotten.
+1Ann asked Mary what time the library closes, but ann had forgotten.Ann asked Mary what time the library closes, but mary had forgotten.
+0I took the water bottle out of the backpack so that the water bottle would be handy.I took the water bottle out of the backpack so that the backpack would be handy.
+1I took the water bottle out of the backpack so that the water bottle would be lighter.I took the water bottle out of the backpack so that the backpack would be lighter.
+0I couldn't put the pot on the shelf because the pot was too tall.I couldn't put the pot on the shelf because the shelf was too tall.
+1I couldn't put the pot on the shelf because the pot was too high.I couldn't put the pot on the shelf because the shelf was too high.
+0I'm sure that my map will show this building; the map is very good.I'm sure that my map will show this building; the building is very good.
+1I'm sure that my map will show this building; the map is very famous.I'm sure that my map will show this building; the building is very famous.
+0Bob paid for Charlie's college education. bob is very generous.Bob paid for Charlie's college education. charlie is very generous.
+1Bob paid for Charlie's college education. bob is very grateful.Bob paid for Charlie's college education. charlie is very grateful.
+0Bob paid for Charlie's college education, but now Charlie acts as thoughit never happened. bob is very hurt.Bob paid for Charlie's college education, but now Charlie acts as thoughit never happened. charlie is very hurt.
+1Bob paid for Charlie's college education, but now Charlie acts as thoughit never happened. bob is very ungrateful.Bob paid for Charlie's college education, but now Charlie acts as thoughit never happened. charlie is very ungrateful.
+0Bob was playing cards with Adam and was way ahead. If Adam hadn't had asudden run of good luck, bob would have won.Bob was playing cards with Adam and was way ahead. If Adam hadn't had asudden run of good luck, adam would have won.
+1Bob was playing cards with Adam and was way ahead. If Adam hadn't had asudden run of good luck, bob would have lost.Bob was playing cards with Adam and was way ahead. If Adam hadn't had asudden run of good luck, adam would have lost.
+0Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, adam would be gone by this time.Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, bob would be gone by this time.
+1Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, adam would be here by this time.Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, bob would be here by this time.
+0If the con artist has succeeded in fooling Sam, the con artist would have gotten a lot of money.If the con artist has succeeded in fooling Sam, sam would have gotten a lot of money.
+1If the con artist has succeeded in fooling Sam, the con artist would have lost a lot of money.If the con artist has succeeded in fooling Sam, sam would have lost a lot of money.
+0It was a summer afternoon, and the dog was sitting in the middle of thelawn. After a while, it got up and moved to a spot under the tree, because the dog was hot.It was a summer afternoon, and the dog was sitting in the middle of thelawn. After a while, it got up and moved to a spot under the tree, because the spot under the tree was hot.
+1It was a summer afternoon, and the dog was sitting in the middle of thelawn. After a while, it got up and moved to a spot under the tree, because the dog was cooler.It was a summer afternoon, and the dog was sitting in the middle of thelawn. After a while, it got up and moved to a spot under the tree, because the spot under the tree was cooler.
+0The cat was lying by the mouse hole waiting for the mouse, but the cat was too impatient.The cat was lying by the mouse hole waiting for the mouse, but the mouse was too impatient.
+1The cat was lying by the mouse hole waiting for the mouse, but the cat was too cautious.The cat was lying by the mouse hole waiting for the mouse, but the mouse was too cautious.
+0Anne gave birth to a daughter last month. anne is a very charming woman.Anne gave birth to a daughter last month. anne's daughter is a very charming woman.
+1Anne gave birth to a daughter last month. anne is a very charming baby.Anne gave birth to a daughter last month. anne's daughter is a very charming baby.
+0Alice tried frantically to stop her daughter from chatting atthe party, leaving us to wonder why alice was behaving so strangely.Alice tried frantically to stop her daughter from chatting atthe party, leaving us to wonder why alice's daughter was behaving so strangely.
+1Alice tried frantically to stop her daughter from barking atthe party, leaving us to wonder why alice was behaving so strangely.Alice tried frantically to stop her daughter from barking atthe party, leaving us to wonder why alice's daughter was behaving so strangely.
+0I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why jim was, but he looked very unhappy.I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why the guy in uniform was, but he looked very unhappy.
+1I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who jim was, but he looked very unhappy.I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who the guy in uniform was, but he looked very unhappy.
+0The fish ate the worm. the fish was hungry.The fish ate the worm. the worm was hungry.
+1The fish ate the worm. the fish was tasty.The fish ate the worm. the worm was tasty.
+0I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get the key in.I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get the chewing gum in.
+1I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get the key out.I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get the chewing gum out.
+0The dog chased the cat, which ran up a tree. the dog waited at the bottom.The dog chased the cat, which ran up a tree. the cat waited at the bottom.
+1The dog chased the cat, which ran up a tree. the dog waited at the top.The dog chased the cat, which ran up a tree. the cat waited at the top.
+0In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get the tree removed.In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get the roof removed.
+1In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get the tree repaired.In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get the roof repaired.
+0The customer walked into the bank and stabbed one of the tellers. the customer was immediately taken to the police station.The customer walked into the bank and stabbed one of the tellers. the teller was immediately taken to the police station.
+1The customer walked into the bank and stabbed one of the tellers. the customer was immediately taken to the hospital.The customer walked into the bank and stabbed one of the tellers. the teller was immediately taken to the hospital.
+0John was doing research in the library when he heard a man humming and whistling. john was very annoyed.John was doing research in the library when he heard a man humming and whistling. the man was very annoyed.
+1John was doing research in the library when he heard a man humming and whistling. john was very annoying.John was doing research in the library when he heard a man humming and whistling. the man was very annoying.
+0John was jogging through the park when he saw a man juggling watermelons. john was very impressed.John was jogging through the park when he saw a man juggling watermelons. the juggler was very impressed.
+1John was jogging through the park when he saw a man juggling watermelons. john was very impressive.John was jogging through the park when he saw a man juggling watermelons. the juggler was very impressive.
+0Bob collapsed on the sidewalk. Soon he saw Carl coming to help. bob was very ill.Bob collapsed on the sidewalk. Soon he saw Carl coming to help. carl was very ill.
+1Bob collapsed on the sidewalk. Soon he saw Carl coming to help. bob was very concerned.Bob collapsed on the sidewalk. Soon he saw Carl coming to help. carl was very concerned.
+0Sam and Amy are passionately in love, but Amy's parents are unhappyabout it, because sam and amy are fifteen.Sam and Amy are passionately in love, but Amy's parents are unhappyabout it, because amy's parents are fifteen.
+1Sam and Amy are passionately in love, but Amy's parents are unhappyabout it, because sam and amy are snobs.Sam and Amy are passionately in love, but Amy's parents are unhappyabout it, because amy's parents are snobs.
+0Mark told Pete many lies about himself, which Pete included in his book. mark should have been more  truthful.Mark told Pete many lies about himself, which Pete included in his book. pete should have been more  truthful.
+1Mark told Pete many lies about himself, which Pete included in his book. mark should have been more  skeptical.Mark told Pete many lies about himself, which Pete included in his book. pete should have been more  skeptical.
+0Joe has sold his house and bought a new one a few miles away. He willbe moving out of the old house on Thursday.Joe has sold his house and bought a new one a few miles away. He willbe moving out of the new house on Thursday.
+1Joe has sold his house and bought a new one a few miles away. He willbe moving into the old house on Thursday.Joe has sold his house and bought a new one a few miles away. He willbe moving into the new house on Thursday.
+0Many people start to read Paul's books and can't put them down. people are gripped because Paul writes so well.Many people start to read Paul's books and can't put them down. paul's books are gripped because Paul writes so well.
+1Many people start to read Paul's books and can't put them down. people are popular because Paul writes so well.Many people start to read Paul's books and can't put them down. paul's books are popular because Paul writes so well.
+0Mary took out her flute and played one of her favorite pieces. Shehas had the flute since she was a child.Mary took out her flute and played one of her favorite pieces. Shehas had the piece since she was a child.
+1Mary took out her flute and played one of her favorite pieces. Shehas loved the flute since she was a child.Mary took out her flute and played one of her favorite pieces. Shehas loved the piece since she was a child.
+0Sam pulled up a chair to the piano, but the chair was broken, so he had to stand instead.Sam pulled up a chair to the piano, but the piano was broken, so he had to stand instead.
+1Sam pulled up a chair to the piano, but the chair was broken, so he had to sing instead.Sam pulled up a chair to the piano, but the piano was broken, so he had to sing instead.
+0Since it was raining, I carried the newspaper in my backpack to keep the newspaper dry.Since it was raining, I carried the newspaper in my backpack to keep the backpack dry.
+1Since it was raining, I carried the newspaper over my backpack to keep the newspaper dry.Since it was raining, I carried the newspaper over my backpack to keep the backpack dry.
+0Sara borrowed the book from the library because she needs it for anarticle she is working on. She reads the book when she gets home from work.Sara borrowed the book from the library because she needs it for anarticle she is working on. She reads the article when she gets home from work.
+1Sara borrowed the book from the library because she needs it for anarticle she is working on. She writes the book when she gets home from work.Sara borrowed the book from the library because she needs it for anarticle she is working on. She writes the article when she gets home from work.
+0This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked the sand castle down.This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked the flag down.
+1This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked the sand castle down.This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked the flag down.
+0Jane knocked on Susan's door, but there was no answer. jane was disappointed.Jane knocked on Susan's door, but there was no answer. susan was disappointed.
+1Jane knocked on Susan's door, but there was no answer. jane was out.Jane knocked on Susan's door, but there was no answer. susan was out.
+0Jane knocked on the door, and Susan answered it. jane invited her to come out.Jane knocked on the door, and Susan answered it. susan invited her to come out.
+1Jane knocked on the door, and Susan answered it. jane invited her to come in.Jane knocked on the door, and Susan answered it. susan invited her to come in.
+0Sam took French classes from Adam, because sam was eager to speak it fluently.Sam took French classes from Adam, because adam was eager to speak it fluently.
+1Sam took French classes from Adam, because sam was known to speak it fluently.Sam took French classes from Adam, because adam was known to speak it fluently.
+0The path to the lake was blocked, so we couldn't use the path .The path to the lake was blocked, so we couldn't use the lake .
+1The path to the lake was blocked, so we couldn't reach the path .The path to the lake was blocked, so we couldn't reach the lake .
+0The sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, the sun was out.The sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, the cloud was out.
+1The sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, the sun was gone.The sun was covered by a thick cloud all morning, but luckily, by the timethe picnic started, the cloud was gone.
+0We went to the lake, because a shark had been seen at the ocean beach, so the lake was a safer place to swim.We went to the lake, because a shark had been seen at the ocean beach, so the ocean beach was a safer place to swim.
+1We went to the lake, because a shark had been seen at the ocean beach, so the lake was a dangerous place to swim.We went to the lake, because a shark had been seen at the ocean beach, so the ocean beach was a dangerous place to swim.
+0Sam tried to paint a picture of shepherds with sheep, but the shepherds ended up looking more like golfers.Sam tried to paint a picture of shepherds with sheep, but the sheep ended up looking more like golfers.
+1Sam tried to paint a picture of shepherds with sheep, but the shepherds ended up looking more like dogs.Sam tried to paint a picture of shepherds with sheep, but the sheep ended up looking more like dogs.
+0Mary tucked her daughter Anne into bed, so that mary could work.Mary tucked her daughter Anne into bed, so that mary's daughter could work.
+1Mary tucked her daughter Anne into bed, so that mary could sleep.Mary tucked her daughter Anne into bed, so that mary's daughter could sleep.
+0Fred and Alice had very warm down coats, but fred and alice were not prepared for the cold in AlaskAFred and Alice had very warm down coats, but coats were not prepared for the cold in AlaskA
+1Fred and Alice had very warm down coats, but fred and alice were not enough for the cold in AlaskAFred and Alice had very warm down coats, but coats were not enough for the cold in AlaskA
+0Thomson visited Cooper's grave in 1765. At that date thomson had been travelling for five years.Thomson visited Cooper's grave in 1765. At that date cooper had been travelling for five years.
+1Thomson visited Cooper's grave in 1765. At that date thomson had been dead for five years.Thomson visited Cooper's grave in 1765. At that date cooper had been dead for five years.
+0Jackson was greatly influenced by Arnold, though jackson lived two centuries later.Jackson was greatly influenced by Arnold, though arnold lived two centuries later.
+1Jackson was greatly influenced by Arnold, though jackson lived two centuries earlier.Jackson was greatly influenced by Arnold, though arnold lived two centuries earlier.
+0I can't cut that tree down with that axe; the tree is too thick.I can't cut that tree down with that axe; the axe is too thick.
+1I can't cut that tree down with that axe; the tree is too small.I can't cut that tree down with that axe; the axe is too small.
+0The foxes are getting in at night and attacking the chickens. I shall haveto kill the foxes .The foxes are getting in at night and attacking the chickens. I shall haveto kill the chickens .
+1The foxes are getting in at night and attacking the chickens. I shall haveto guard the foxes .The foxes are getting in at night and attacking the chickens. I shall haveto guard the chickens .
+0The foxes are getting in at night and attacking the chickens. the foxes have gotten very bold.The foxes are getting in at night and attacking the chickens. the chickens have gotten very bold.
+1The foxes are getting in at night and attacking the chickens. the foxes have gotten very nervous.The foxes are getting in at night and attacking the chickens. the chickens have gotten very nervous.
+0Fred covered his eyes with his hands, because the wind was blowing sandaround. He opened his eyes when the wind stopped.Fred covered his eyes with his hands, because the wind was blowing sandaround. He opened his hands when the wind stopped.
+1Fred covered his eyes with his hands, because the wind was blowing sandaround. He lowered his eyes when the wind stopped.Fred covered his eyes with his hands, because the wind was blowing sandaround. He lowered his hands when the wind stopped.
+0The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured terpsichore was too hard to pronounce.The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured tina was too hard to pronounce.
+1The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured terpsichore was easier to pronounce.The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured tina was easier to pronounce.
+0Fred watched TV while George went out to buy groceries. After an hour fred got up.Fred watched TV while George went out to buy groceries. After an hour george got up.
+1Fred watched TV while George went out to buy groceries. After an hour fred got back.Fred watched TV while George went out to buy groceries. After an hour george got back.
+0Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so hechanged his mind and turned the dishwasher on.Fred was supposed to run the dishwasher, but he put it off,  becausehe wanted to watch TV. But the show turned out to be boring, so hechanged his mind and turned the tv on.
+1Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned the dishwasher off.Fred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned the tv off.
+0Fred is the only man still alive who remembers my great-grandfather. fred is a remarkable man.Fred is the only man still alive who remembers my great-grandfather. my great-grandfather is a remarkable man.
+1Fred is the only man still alive who remembers my great-grandfather. fred was a remarkable man.Fred is the only man still alive who remembers my great-grandfather. my great-grandfather was a remarkable man.
+0Fred is the only man alive who still remembers my father as an infant.When Fred first saw my father, fred was twelve years old.Fred is the only man alive who still remembers my father as an infant.When Fred first saw my father, my father was twelve years old.
+1Fred is the only man alive who still remembers my father as an infant.When Fred first saw my father, fred was twelve months old.Fred is the only man alive who still remembers my father as an infant.When Fred first saw my father, my father was twelve months old.
+0In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, kamchatka were defeated within weeks.In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, yakutsk were defeated within weeks.
+1In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, kamchatka were victorious within weeks.In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, yakutsk were victorious within weeks.
+0Look! There is a minnow swimming right below that duck! the minnow had better get away to safety fast!Look! There is a minnow swimming right below that duck! the duck had better get away to safety fast!
+1Look! There is a shark swimming right below that duck! the shark had better get away to safety fast!Look! There is a shark swimming right below that duck! the duck had better get away to safety fast!
+0Archaeologists have concluded that humans lived in Laputa 20,000 years ago. archaeologists hunted for evidence on the river banks.Archaeologists have concluded that humans lived in Laputa 20,000 years ago. prehistoric humans hunted for evidence on the river banks.
+1Archaeologists have concluded that humans lived in Laputa 20,000 years ago. archaeologists hunted for deer on the river banks.Archaeologists have concluded that humans lived in Laputa 20,000 years ago. prehistoric humans hunted for deer on the river banks.
+0The scientists are studying three species of fish that have recentlybeen found living in the Indian Ocean. the scientists began two years ago.The scientists are studying three species of fish that have recentlybeen found living in the Indian Ocean. the fish began two years ago.
+1The scientists are studying three species of fish that have recentlybeen found living in the Indian Ocean. the scientists appeared two years ago.The scientists are studying three species of fish that have recentlybeen found living in the Indian Ocean. the fish appeared two years ago.
+0The journalists interviewed the stars of the new movie. the journalists were very persistent, so the interview lasted for a long time.The journalists interviewed the stars of the new movie. the stars were very persistent, so the interview lasted for a long time.
+1The journalists interviewed the stars of the new movie. the journalists were very cooperative, so the interview lasted for a long time.The journalists interviewed the stars of the new movie. the stars were very cooperative, so the interview lasted for a long time.
+0The police arrested all of the gang members. the police were trying to stop the drug trade in the neighborhood.The police arrested all of the gang members. the gang members were trying to stop the drug trade in the neighborhood.
+1The police arrested all of the gang members. the police were trying to run the drug trade in the neighborhood.The police arrested all of the gang members. the gang members were trying to run the drug trade in the neighborhood.
+0I put the cake away in the refrigerator. the cake has a lot of butter in it.I put the cake away in the refrigerator. the refrigerator has a lot of butter in it.
+1I put the cake away in the refrigerator. the cake has a lot of leftovers in it.I put the cake away in the refrigerator. the refrigerator has a lot of leftovers in it.
+0Sam broke both his ankles and he's walking with crutches. But a monthor so from now the ankles should be better.Sam broke both his ankles and he's walking with crutches. But a monthor so from now the crutches should be better.
+1Sam broke both his ankles and he's walking with crutches. But a monthor so from now the ankles should be unnecessary.Sam broke both his ankles and he's walking with crutches. But a monthor so from now the crutches should be unnecessary.
+0When the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. the sponsors were very much in the minority.When the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. the opponents were very much in the minority.
+1When the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. the sponsors were very much in the majority.When the sponsors of the bill got to the town hall, they were surprisedto find that the room was full of opponents. the opponents were very much in the majority.
+0Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of the oatmeal cookies .Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of the chocolate chip cookies .
+1Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of the oatmeal cookies .Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of the chocolate chip cookies .
+0We had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply not enough of copies of the newsletter .We had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply not enough of chairs .
+1We had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply too many of copies of the newsletter .We had hoped to place copies of our newsletter on all the chairs in theauditorium, but there were simply too many of chairs .
+0I stuck a pin through a carrot. When I pulled the pin out, the pin left a hole.I stuck a pin through a carrot. When I pulled the pin out, the carrot left a hole.
+1I stuck a pin through a carrot. When I pulled the pin out, the pin had a hole.I stuck a pin through a carrot. When I pulled the pin out, the carrot had a hole.
+0I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because the pen got full of coffee.I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because the coffee got full of coffee.
+1I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because the pen got full of ink.I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because the coffee got full of ink.
+0Steve follows Fred's example in everything. steve admires him hugely.Steve follows Fred's example in everything. fred admires him hugely.
+1Steve follows Fred's example in everything. steve influences him hugely.Steve follows Fred's example in everything. fred influences him hugely.
+0The table won't fit through the doorway because the table is too wide.The table won't fit through the doorway because the doorway is too wide.
+1The table won't fit through the doorway because the table is too narrow.The table won't fit through the doorway because the doorway is too narrow.
+0Grace was happy to trade me her sweater for my jacket. She thinks the sweater looks dowdy on her.Grace was happy to trade me her sweater for my jacket. She thinks the jacket looks dowdy on her.
+1Grace was happy to trade me her sweater for my jacket. She thinks the sweater looks great on her.Grace was happy to trade me her sweater for my jacket. She thinks the jacket looks great on her.
+0John hired Bill to take care of john .John hired Bill to take care of bill .
+1John hired himself out to Bill to take care of john .John hired himself out to Bill to take care of bill .
+0John promised Bill to leave, so an hour later john left.John promised Bill to leave, so an hour later bill left.
+1John ordered Bill to leave, so an hour later john left.John ordered Bill to leave, so an hour later bill left.
+0Sam Goodman's biography of the Spartan general Xenophanesconveys a vivid sense of the difficulties goodman faced in his research.Sam Goodman's biography of the Spartan general Xenophanesconveys a vivid sense of the difficulties xenophanes faced in his research.
+1Sam Goodman's biography of the Spartan general Xenophanesconveys a vivid sense of the difficulties goodman faced in his childhood.Sam Goodman's biography of the Spartan general Xenophanesconveys a vivid sense of the difficulties xenophanes faced in his childhood.
+0Emma's mother had died long ago, and emma education had been managed by an excellent woman as governess.Emma's mother had died long ago, and emma's mother education had been managed by an excellent woman as governess.
+1Emma's mother had died long ago, and emma place had been taken by an excellent woman as governess.Emma's mother had died long ago, and emma's mother place had been taken by an excellent woman as governess.
+0Jane knocked on Susan's door but jane did not get an answer.Jane knocked on Susan's door but susan did not get an answer.
+1Jane knocked on Susan's door but jane did not answer.Jane knocked on Susan's door but susan did not answer.
+0Joe paid the detective after joe received the final report on the case.Joe paid the detective after the detective received the final report on the case.
+1Joe paid the detective after joe delivered the final report on the case.Joe paid the detective after the detective delivered the final report on the case.
+0Beth didn't get angry with Sally, who had cut her off, because beth stopped and counted to ten.Beth didn't get angry with Sally, who had cut her off, because sally stopped and counted to ten.
+1Beth didn't get angry with Sally, who had cut her off, because beth stopped and apologized.Beth didn't get angry with Sally, who had cut her off, because sally stopped and apologized.
+0Jim signaled the barman and gestured toward jim empty glassJim signaled the barman and gestured toward the barman empty glass
+1Jim signaled the barman and gestured toward jim bathroom key.Jim signaled the barman and gestured toward the barman bathroom key.
+0Dan took the rear seat while Bill claimed the front because dan "Dibs!" was slow.Dan took the rear seat while Bill claimed the front because bill "Dibs!" was slow.
+1Dan took the rear seat while Bill claimed the front because dan "Dibs!" was quicker.Dan took the rear seat while Bill claimed the front because bill "Dibs!" was quicker.
+0Tom said "Check" to Ralph as he moved tom bishop.Tom said "Check" to Ralph as he moved ralph bishop.
+1Tom said "Check" to Ralph as he took tom bishop.Tom said "Check" to Ralph as he took ralph bishop.
+0As Andrea in the crop duster passed over Susan, andrea could see the landing strip.As Andrea in the crop duster passed over Susan, susan could see the landing strip.
+1As Andrea in the crop duster passed over Susan, andrea could see the landing gear.As Andrea in the crop duster passed over Susan, susan could see the landing gear.
+0Tom gave Ralph a lift to school so tom wouldn't have to drive alone.Tom gave Ralph a lift to school so ralph wouldn't have to drive alone.
+1Tom gave Ralph a lift to school so tom wouldn't have to walk.Tom gave Ralph a lift to school so ralph wouldn't have to walk.
+0Bill passed the half-empty plate to John because bill was full.Bill passed the half-empty plate to John because john was full.
+1Bill passed the half-empty plate to John because bill was hungry.Bill passed the half-empty plate to John because john was hungry.
+0Bill passed the gameboy to John because bill turn was over.Bill passed the gameboy to John because john turn was over.
+1Bill passed the gameboy to John because bill turn was next.Bill passed the gameboy to John because john turn was next.
+0The man lifted the boy onto the man shoulders.The man lifted the boy onto the boy shoulders.
+1The man lifted the boy onto the man bunk bed.The man lifted the boy onto the boy bunk bed.
+0Stretching the woman back, the woman smiled at the girl.Stretching the girl back, the woman smiled at the girl.
+1Patting the woman back, the woman smiled at the girl.Patting the girl back, the woman smiled at the girl.
+0Billy cried because Toby wouldn't accept billy toy.Billy cried because Toby wouldn't accept toby toy.
+1Billy cried because Toby wouldn't share billy toy.Billy cried because Toby wouldn't share toby toy.
+0Lily spoke to Donna, breaking lily silence.Lily spoke to Donna, breaking donna silence.
+1Lily spoke to Donna, breaking lily concentration.Lily spoke to Donna, breaking donna concentration.
+0When Tommy dropped his ice cream, Timmy giggled, so father gave tommy a sympathetic look.When Tommy dropped his ice cream, Timmy giggled, so father gave timmy a sympathetic look.
+1When Tommy dropped his ice cream, Timmy giggled, so father gave tommy a stern look.When Tommy dropped his ice cream, Timmy giggled, so father gave timmy a stern look.
+0As Ollie carried Tommy up the long winding steps, ollie legs ached.As Ollie carried Tommy up the long winding steps, tommy legs ached.
+1As Ollie carried Tommy up the long winding steps, ollie legs dangled.As Ollie carried Tommy up the long winding steps, tommy legs dangled.
+0The father carried the sleeping boy in the father armsThe father carried the sleeping boy in the boy arms
+1The father carried the sleeping boy in the father bassinet.The father carried the sleeping boy in the boy bassinet.
+0The woman held the girl against the woman chestThe woman held the girl against the girl chest
+1The woman held the girl against the woman will.The woman held the girl against the girl will.
+0Pam's parents came home and found her having sex with her boyfriend, Paul. pam's parents were furious about it.Pam's parents came home and found her having sex with her boyfriend, Paul. pam and paul were furious about it.
+1Pam's parents came home and found her having sex with her boyfriend, Paul. pam's parents were embarrassed about it.Pam's parents came home and found her having sex with her boyfriend, Paul. pam and paul were embarrassed about it.
+0Dr. Adams informed Kate that dr. adams had retired and presented several options for future treatment.Dr. Adams informed Kate that kate had retired and presented several options for future treatment.
+1Dr. Adams informed Kate that dr. adams had cancer and presented several options for future treatment.Dr. Adams informed Kate that kate had cancer and presented several options for future treatment.
+0Dan had to stop Bill from toying with the injured bird. dan is very compassionate.Dan had to stop Bill from toying with the injured bird. bill is very compassionate.
+1Dan had to stop Bill from toying with the injured bird. dan is very cruel.Dan had to stop Bill from toying with the injured bird. bill is very cruel.
+0George got free tickets to the play, but he gave them to Eric, even though george was particularly eager to see it.George got free tickets to the play, but he gave them to Eric, even though eric was particularly eager to see it.
+1George got free tickets to the play, but he gave them to Eric, because george was particularly eager to see it.George got free tickets to the play, but he gave them to Eric, because eric was particularly eager to see it.
+0George got free tickets to the play, but he gave them to Eric, because george was not particularly eager to see it.George got free tickets to the play, but he gave them to Eric, because eric was not particularly eager to see it.
+0Jane gave Joan candy because jane wasn't hungry.Jane gave Joan candy because joan wasn't hungry.
+1Jane gave Joan candy because jane was hungry.Jane gave Joan candy because joan was hungry.
+0I tried to paint a picture of an orchard, with lemons in the lemon trees, but lemons came out looking more like light bulbs.I tried to paint a picture of an orchard, with lemons in the lemon trees, but lemon trees came out looking more like light bulbs.
+1I tried to paint a picture of an orchard, with lemons in the lemon trees, but lemons came out looking more like telephone poles.I tried to paint a picture of an orchard, with lemons in the lemon trees, but lemon trees came out looking more like telephone poles.
+0James asked Robert for a favor but james was refused.James asked Robert for a favor but robert was refused.
+1James asked Robert for a favor but james refused.James asked Robert for a favor but robert refused.
+0Kirilov ceded the presidency to Shatov because kirilov was less popular.Kirilov ceded the presidency to Shatov because shatov was less popular.
+1Kirilov ceded the presidency to Shatov because kirilov was more popular.Kirilov ceded the presidency to Shatov because shatov was more popular.
+0Emma did not pass the ball to Janie although emma saw that she was open.Emma did not pass the ball to Janie although janie saw that she was open.
+1Emma did not pass the ball to Janie although emma was open.Emma did not pass the ball to Janie although janie was open.
+0I put the butterfly wing on the table and the butterfly wing broke.I put the butterfly wing on the table and the table broke.
+1I put the heavy book on the table and the heavy book broke.I put the heavy book on the table and the table broke.
+0Madonna fired her trainer because madonna couldn't stand her boyfriend.Madonna fired her trainer because the trainer couldn't stand her boyfriend.
+1Madonna fired her trainer because madonna slept with her boyfriend.Madonna fired her trainer because the trainer slept with her boyfriend.
+0Madonna fired her trainer because she slept with madonna boyfriend.Madonna fired her trainer because she slept with the trainer boyfriend.
+1Madonna fired her trainer because she couldn't stand madonna boyfriend.Madonna fired her trainer because she couldn't stand the trainer boyfriend.
+0Carol believed that Rebecca suspected that carol had stolen the watch.Carol believed that Rebecca suspected that rebecca had stolen the watch.
+1Carol believed that Rebecca regretted that carol had stolen the watch.Carol believed that Rebecca regretted that rebecca had stolen the watch.
+0This book introduced Shakespeare to Ovid; it was a major influence on shakespeare writing.This book introduced Shakespeare to Ovid; it was a major influence on ovid writing.
+1This book introduced Shakespeare to Goethe; it was a major influence on shakespeare writing.This book introduced Shakespeare to Goethe; it was a major influence on goethe writing.
+1This book introduced Shakespeare to Ovid; it was a fine selection of shakespeare writing.This book introduced Shakespeare to Ovid; it was a fine selection of ovid writing.
+0This book introduced Shakespeare to Goethe; it was a fine selection of shakespeare writing.This book introduced Shakespeare to Goethe; it was a fine selection of goethe writing.
+0Alice looked for her friend Jade in the crowd. Since alice alwayshas good luck, Alice spotted her quickly.Alice looked for her friend Jade in the crowd. Since jade alwayshas good luck, Alice spotted her quickly.
+1Alice looked for her friend Jade in the crowd. Since alice alwayswears a red turban, Alice spotted her quickly.Alice looked for her friend Jade in the crowd. Since jade alwayswears a red turban, Alice spotted her quickly.
+0During a game of tag, Ethan chased Luke because ethan was "it".During a game of tag, Ethan chased Luke because luke was "it".
+1During a game of tag, Ethan ran from Luke because ethan was "it".During a game of tag, Ethan ran from Luke because luke was "it".
+0At the Loebner competition the judges couldn't figure out which respondentswere the chatbots because the judges were so stupid.At the Loebner competition the judges couldn't figure out which respondentswere the chatbots because the chatbots were so stupid.
+1At the Loebner competition the judges couldn't figure out which respondentswere the chatbots because the judges were so advanced.At the Loebner competition the judges couldn't figure out which respondentswere the chatbots because the chatbots were so advanced.
+0The user changed his password from "GrWQWu8JyC" to "willow-towered CanopyHuntertropic wrestles" as grwqwu8jyc was easy to forget.The user changed his password from "GrWQWu8JyC" to "willow-towered CanopyHuntertropic wrestles" as willow-towered canopyhuntertropic wrestles was easy to forget.
+1The user changed his password from "GrWQWu8JyC" to "willow-towered CanopyHuntertropic wrestles" as grwqwu8jyc was easy to remember.The user changed his password from "GrWQWu8JyC" to "willow-towered CanopyHuntertropic wrestles" as willow-towered canopyhuntertropic wrestles was easy to remember.
