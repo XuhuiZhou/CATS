@@ -8,7 +8,7 @@ import logging
 import os
 import sys
 logging.basicConfig(level=logging.INFO)
-os.environ["CUDA_VISIBLE_DEVICES"]="1"
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
 def uni_predict(text, model, tokenizer):
     # Tokenized input
     # text = "[CLS] I got restricted because Tom reported my reply [SEP]"
@@ -26,11 +26,11 @@ def uni_predict(text, model, tokenizer):
     sentence_score = -loss
     return sentence_score
 
-def predict(text, bert_model, bert_tokenizer):
+def bert_predict(text, model, tokenizer):
     # Tokenized input
     # text = "[CLS] I got restricted because Tom reported my reply [SEP]"
     text = "[CLS] " + text + " [SEP]" #special token for BERT, RoBERTa
-    tokenized_text = bert_tokenizer.tokenize(text)
+    tokenized_text = tokenizer.tokenize(text)
     sentence_score = 0
     length = len(tokenized_text)-2
     for masked_index in range(1,len(tokenized_text)-1):
@@ -39,14 +39,46 @@ def predict(text, bert_model, bert_tokenizer):
         #tokenized_text[masked_index] = '<mask>' #special token for XLNet
         tokenized_text[masked_index] = '[MASK]' #special token for BERT, RoBerta
         # Convert token to vocabulary indices
-        indexed_tokens = bert_tokenizer.convert_tokens_to_ids(tokenized_text)
+        indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized_text)
         index = torch.tensor(tokenizer.convert_tokens_to_ids(masked_word))
         tokens_tensor = torch.tensor([indexed_tokens])
         tokens_tensor = tokens_tensor.to('cuda')
         index = index.to('cuda')
         #masked_tensor = torch.tensor([masked_index])
         with torch.no_grad():
-            outputs = bert_model(tokens_tensor)
+            outputs = model(tokens_tensor)
+        prediction_scores = outputs[0]
+        prediction_scores = prediction_scores.view(-1, model.config.vocab_size)
+        prediction_scores = prediction_scores[masked_index].unsqueeze(0)
+        loss_fct = CrossEntropyLoss(ignore_index=-1)  # -1 index = padding token
+        masked_lm_loss = loss_fct(prediction_scores, index.view(-1))
+        tokenized_text[masked_index] = masked_word
+        sentence_score -= masked_lm_loss.item()
+        tokenized_text[masked_index] = masked_word
+    sentence_score = sentence_score/length
+    return sentence_score
+
+def ro_predict(text, model, tokenizer):
+    # Tokenized input
+    # text = "[CLS] I got restricted because Tom reported my reply [SEP]"
+    text = '<s> '+text+ ' </s>' #special token for RoBERTa
+    tokenized_text = tokenizer.tokenize(text)
+    sentence_score = 0
+    length = len(tokenized_text)-2
+    for masked_index in range(1,len(tokenized_text)-1):
+        # Mask a token that we will try to predict back with `BertForMaskedLM`
+        masked_word = tokenized_text[masked_index]
+        #tokenized_text[masked_index] = '<mask>' #special token for XLNet
+        tokenized_text[masked_index] = '<mask>' #special token for BERT, RoBerta
+        # Convert token to vocabulary indices
+        indexed_tokens = tokenizer.convert_tokens_to_ids(tokenized_text)
+        index = torch.tensor(tokenizer.convert_tokens_to_ids(masked_word))
+        tokens_tensor = torch.tensor([indexed_tokens])
+        tokens_tensor = tokens_tensor.to('cuda')
+        index = index.to('cuda')
+        #masked_tensor = torch.tensor([masked_index])
+        with torch.no_grad():
+            outputs = model(tokens_tensor)
         prediction_scores = outputs[0]
         prediction_scores = prediction_scores.view(-1, model.config.vocab_size)
         prediction_scores = prediction_scores[masked_index].unsqueeze(0)
@@ -60,11 +92,9 @@ def predict(text, bert_model, bert_tokenizer):
 
 def xlnet_predict(text, model, tokenizer):
     tokenized_text = tokenizer.tokenize(text)
-    # text = "[CLS] Stir the mixture until it is done [SEP]"
     sentence_score = 0
     #Sprint(len(tokenized_text))
     for masked_index in range(0,len(tokenized_text)):
-        # Mask a token that we will try to predict back with `BertForMaskedLM`
         masked_word = tokenized_text[masked_index]
         masked_word = tokenized_text[masked_index]
         tokenized_text[masked_index] = '<mask>'
@@ -126,8 +156,10 @@ if robust=='r':
             if not len(sentence)==1:
                 if model_type=='xlnet':
                     score = xlnet_predict(sentence, model=model, tokenizer=tokenizer)
-                elif model_type=='bert' or model_type=='roberta':
-                    score = predict(sentence, bert_model=model, bert_tokenizer=tokenizer)
+                elif model_type=='bert':
+                    score = bert_predict(sentence, model=model, tokenizer=tokenizer)
+                elif model_type=='roberta':
+                    score = ro_predict(sentence, model=model, tokenizer=tokenizer)
                 else:
                     score = uni_predict(sentence, model=model, tokenizer=tokenizer)
                 score_list.append(score)
@@ -157,17 +189,19 @@ else:
         for sentence in line[1:]:
             if model_type=='xlnet':
                 score = xlnet_predict(sentence, model=model, tokenizer=tokenizer)
-            elif model_type=='bert' or model_type=='roberta':
-                score = predict(sentence, bert_model=model, bert_tokenizer=tokenizer)
+            elif model_type=='bert':
+                score = bert_predict(sentence, model=model, tokenizer=tokenizer)
+            elif model_type=='roberta':
+                score = ro_predict(sentence, model=model, tokenizer=tokenizer)
             else:
                 score = uni_predict(sentence, model=model, tokenizer=tokenizer)
             score_list.append(score)
-        print(score_list)
+        #print(score_list)
         predict_label = score_list.index(max(score_list))
-        print(predict_label, label)
+        #print(predict_label, label)
         if predict_label==label:
             count += 1
         curr += 1
-        print (count, curr, count/curr)
+        #print (count, curr, count/curr)
     print(test+' '+model_type+':-------------------')
     print (count/num)
