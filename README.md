@@ -13,4 +13,4 @@ For robust tests:\
 
 Note that `ca` is the name of the task and `bert` is the model we are using. The default model is `bert-base-uncased`. To use `bert-large`, just modify the `from_pretrained('bert-base-uncased')` in the code. For more details, see [Huggingface Transformers](https://huggingface.co/transformers/index.html).
 
-*Due to the updating of Huggingface models and some of our datasets, some numbers we showed in the paper may not exactly match the what you might get by rerunning the experiments. However, the conclusion should be the same.*   
+*Due to the updating of Huggingface scripts and some of our datasets, some numbers we showed in the paper may not exactly match the what you might get by rerunning the experiments. However, the conclusion should be the same.*   
